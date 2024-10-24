@@ -15,5 +15,8 @@
 			"Name": "USDImporter",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
